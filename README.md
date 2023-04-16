@@ -7,3 +7,4 @@ Using:
 - Eslint
 - Prettier
 - Tailwind
+- Husky
